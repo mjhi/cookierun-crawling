@@ -1,0 +1,8 @@
+CardName: 롤케이크맛 쿠키
+Illustrator: surisuri
+Cost: Red
+Level: 2
+HP: 2
+Number: BS1-005
+Rank: Common
+Kind: COOKIE

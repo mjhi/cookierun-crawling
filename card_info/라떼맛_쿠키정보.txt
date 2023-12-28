@@ -1,0 +1,8 @@
+CardName: 라떼맛 쿠키
+Illustrator: Hyeseong Ahn
+Cost: Yellow
+Level: 3
+HP: 5
+Number: BS1-028
+Rank: Super Rare
+Kind: COOKIE

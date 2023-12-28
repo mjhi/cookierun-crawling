@@ -1,0 +1,8 @@
+CardName: 명랑한 쿠키
+Illustrator: Andy_na
+Cost: Red Mix
+Level: 2
+HP: 4
+Number: ST1-006
+Rank: Common
+Kind: COOKIE

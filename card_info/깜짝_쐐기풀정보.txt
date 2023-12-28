@@ -1,0 +1,8 @@
+CardName: 깜짝 쐐기풀
+Illustrator: Miji Lee
+Cost: Green
+Level: 
+HP: -
+Number: BS1-076
+Rank: Uncommon
+Kind: TRAP

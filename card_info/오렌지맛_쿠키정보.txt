@@ -1,0 +1,8 @@
+CardName: 오렌지맛 쿠키
+Illustrator: surisuri
+Cost: Yellow
+Level: 1
+HP: 1
+Number: BS1-041
+Rank: Common
+Kind: FLIP

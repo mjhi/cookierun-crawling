@@ -1,0 +1,8 @@
+CardName: 독버섯맛 쿠키
+Illustrator: Art Elephant
+Cost: Green
+Level: 2
+HP: 2
+Number: BS1-058
+Rank: Common
+Kind: COOKIE

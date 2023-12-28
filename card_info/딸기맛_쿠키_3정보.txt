@@ -1,0 +1,8 @@
+CardName: 딸기맛 쿠키
+Illustrator: Miji Lee
+Cost: Yellow
+Level: 3
+HP: 4
+Number: P-005
+Rank: PROMOTION
+Kind: COOKIE

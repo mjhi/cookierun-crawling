@@ -1,0 +1,8 @@
+CardName: 콜리플라워맛 쿠키
+Illustrator: NASARU
+Cost: Green Mix
+Level: 2
+HP: 4
+Number: BS1-068
+Rank: Common
+Kind: COOKIE

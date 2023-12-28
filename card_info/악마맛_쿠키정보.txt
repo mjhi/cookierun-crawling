@@ -1,0 +1,8 @@
+CardName: 악마맛 쿠키
+Illustrator: Art Elephant
+Cost: Red Mix
+Level: 2
+HP: 2
+Number: BS1-010
+Rank: Common
+Kind: COOKIE

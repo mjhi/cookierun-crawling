@@ -1,0 +1,8 @@
+CardName: 마법사맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Yellow Mix
+Level: 3
+HP: 3
+Number: ST2-003
+Rank: PROMOTION
+Kind: COOKIE

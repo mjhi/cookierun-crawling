@@ -1,0 +1,8 @@
+CardName: 리버스 타이머
+Illustrator: Miji Lee
+Cost: Yellow
+Level: 
+HP: -
+Number: ST2-017
+Rank: Uncommon
+Kind: ITEM

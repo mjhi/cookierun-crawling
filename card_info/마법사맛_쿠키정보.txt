@@ -1,0 +1,8 @@
+CardName: 마법사맛 쿠키
+Illustrator: Park Jun Seong
+Cost: Yellow Mix
+Level: 3
+HP: 3
+Number: ST2-003
+Rank: Common
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 휘핑크림맛 쿠키
+Illustrator: Art Elephant
+Cost: Red Mix
+Level: 2
+HP: 4
+Number: BS1-021
+Rank: Common
+Kind: COOKIE

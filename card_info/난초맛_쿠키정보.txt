@@ -1,0 +1,8 @@
+CardName: 난초맛 쿠키
+Illustrator: NEZZBE
+Cost: Green
+Level: 3
+HP: 5
+Number: BS1-054
+Rank: Super Rare
+Kind: COOKIE

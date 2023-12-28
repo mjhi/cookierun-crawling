@@ -1,0 +1,8 @@
+CardName: 팝콘맛 쿠키
+Illustrator: Jihye Baik
+Cost: Red
+Level: 1
+HP: 1
+Number: BS1-018
+Rank: Uncommon
+Kind: FLIP

@@ -1,0 +1,8 @@
+CardName: 괴도맛 쿠키
+Illustrator: porksoda
+Cost: Green
+Level: 1
+HP: 2
+Number: BS1-053
+Rank: Ultra Rare
+Kind: COOKIE

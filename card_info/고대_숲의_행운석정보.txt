@@ -1,0 +1,8 @@
+CardName: 고대 숲의 행운석
+Illustrator: Yoon GaHyun
+Cost: Green
+Level: 
+HP: -
+Number: BS1-074
+Rank: Uncommon
+Kind: ITEM

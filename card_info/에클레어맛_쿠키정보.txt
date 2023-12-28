@@ -1,0 +1,8 @@
+CardName: 에클레어맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Yellow
+Level: 3
+HP: 5
+Number: ST2-008
+Rank: Super rare
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 천사맛 쿠키
+Illustrator: Miji Lee
+Cost: Green
+Level: 1
+HP: 1
+Number: ST3-014
+Rank: Common
+Kind: FLIP

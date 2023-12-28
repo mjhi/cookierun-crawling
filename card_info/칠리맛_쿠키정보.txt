@@ -1,0 +1,8 @@
+CardName: 칠리맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Green
+Level: 3
+HP: 4
+Number: ST3-015
+Rank: Uncommon
+Kind: COOKIE

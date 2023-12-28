@@ -1,0 +1,8 @@
+CardName: 거대한 체리 폭탄
+Illustrator: Seahorse
+Cost: Red
+Level: 
+HP: -
+Number: BS1-022
+Rank: Rare
+Kind: ITEM

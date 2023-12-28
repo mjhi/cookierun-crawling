@@ -1,0 +1,8 @@
+CardName: 화끈한 젤리 덩어리
+Illustrator: Park Jun Seong
+Cost: Red
+Level: 
+HP: -
+Number: ST1-019
+Rank: Uncommon
+Kind: ITEM

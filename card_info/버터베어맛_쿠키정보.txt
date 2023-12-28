@@ -1,0 +1,8 @@
+CardName: 버터베어맛 쿠키
+Illustrator: Haeli Lee
+Cost: Green Mix
+Level: 2
+HP: 2
+Number: BS1-060
+Rank: Common
+Kind: COOKIE

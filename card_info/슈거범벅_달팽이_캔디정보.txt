@@ -1,0 +1,8 @@
+CardName: 슈거범벅 달팽이 캔디
+Illustrator: Miji Lee
+Cost: Red
+Level: 
+HP: -
+Number: ST1-018
+Rank: Uncommon
+Kind: ITEM

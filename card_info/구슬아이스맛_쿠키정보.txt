@@ -1,0 +1,8 @@
+CardName: 구슬아이스맛 쿠키
+Illustrator: May Kim
+Cost: Yellow Mix
+Level: 2
+HP: 4
+Number: BS1-027
+Rank: Common
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 마라맛 쿠키
+Illustrator: NASARU
+Cost: Red
+Level: 2
+HP: 2
+Number: BS1-006
+Rank: Uncommon
+Kind: COOKIE

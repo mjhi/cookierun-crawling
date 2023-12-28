@@ -1,0 +1,8 @@
+CardName: 다이노사워 쿠키
+Illustrator: LEEPIX_X
+Cost: Red Mix
+Level: 2
+HP: 1
+Number: ST1-003
+Rank: Uncommon
+Kind: COOKIE

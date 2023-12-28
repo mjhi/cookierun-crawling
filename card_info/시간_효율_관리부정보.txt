@@ -1,0 +1,8 @@
+CardName: 시간 효율 관리부
+Illustrator: Miji Lee
+Cost: Yellow
+Level: 
+HP: -
+Number: ST2-022
+Rank: Uncommon
+Kind: STAGE

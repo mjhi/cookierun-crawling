@@ -1,0 +1,8 @@
+CardName: 부서진 이정표
+Illustrator: Miji Lee
+Cost: Yellow
+Level: 
+HP: -
+Number: BS1-050
+Rank: Uncommon
+Kind: TRAP

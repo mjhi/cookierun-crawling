@@ -1,0 +1,8 @@
+CardName: 스네이크후르츠맛 쿠키
+Illustrator: Park Jun Seong
+Cost: Yellow
+Level: 2
+HP: 4
+Number: BS1-036
+Rank: Super Rare
+Kind: COOKIE

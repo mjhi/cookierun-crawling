@@ -1,0 +1,8 @@
+CardName: 인삼맛 쿠키
+Illustrator: Gajee
+Cost: Green
+Level: 2
+HP: 2
+Number: BS1-064
+Rank: Common
+Kind: COOKIE

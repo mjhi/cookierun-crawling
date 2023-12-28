@@ -1,0 +1,8 @@
+CardName: 양파맛 쿠키
+Illustrator: surisuri
+Cost: Green
+Level: 2
+HP: 2
+Number: ST3-011
+Rank: Common
+Kind: FLIP

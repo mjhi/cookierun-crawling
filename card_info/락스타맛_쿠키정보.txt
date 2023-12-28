@@ -1,0 +1,8 @@
+CardName: 락스타맛 쿠키
+Illustrator: Haeli Lee
+Cost: Yellow
+Level: 2
+HP: 2
+Number: BS1-030
+Rank: Common
+Kind: FLIP

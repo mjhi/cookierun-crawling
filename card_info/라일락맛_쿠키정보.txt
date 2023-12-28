@@ -1,0 +1,8 @@
+CardName: 라일락맛 쿠키
+Illustrator: LEE Woo-chul
+Cost: Red
+Level: 1
+HP: 2
+Number: BS1-004
+Rank: Uncommon
+Kind: COOKIE

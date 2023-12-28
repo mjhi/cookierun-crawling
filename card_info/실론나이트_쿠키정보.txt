@@ -1,0 +1,8 @@
+CardName: 실론나이트 쿠키
+Illustrator: WEJI
+Cost: Green Mix
+Level: 1
+HP: 3
+Number: BS1-062
+Rank: Rare
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 푸딩맛 쿠키
+Illustrator: surisuri
+Cost: Green Mix
+Level: 3
+HP: 4
+Number: BS1-072
+Rank: Common
+Kind: COOKIE

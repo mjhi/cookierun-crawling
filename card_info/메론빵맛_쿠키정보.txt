@@ -1,0 +1,8 @@
+CardName: 메론빵맛 쿠키
+Illustrator: GAMZA
+Cost: Red Mix
+Level: 1
+HP: 4
+Number: BS1-007
+Rank: Common
+Kind: COOKIE

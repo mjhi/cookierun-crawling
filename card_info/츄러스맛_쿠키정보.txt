@@ -1,0 +1,8 @@
+CardName: 츄러스맛 쿠키
+Illustrator: InHyuk Lee
+Cost: Green
+Level: 3
+HP: 3
+Number: BS1-067
+Rank: Rare
+Kind: FLIP

@@ -1,0 +1,8 @@
+CardName: 뱀파이어맛 쿠키
+Illustrator: Miji Lee
+Cost: Green Mix
+Level: 3
+HP: 3
+Number: ST3-004
+Rank: Uncommon
+Kind: COOKIE

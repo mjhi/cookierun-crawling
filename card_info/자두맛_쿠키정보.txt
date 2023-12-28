@@ -1,0 +1,8 @@
+CardName: 자두맛 쿠키
+Illustrator: Min Yum
+Cost: Green Mix
+Level: 1
+HP: 2
+Number: BS1-065
+Rank: Common
+Kind: COOKIE

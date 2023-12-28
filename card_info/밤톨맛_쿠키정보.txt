@@ -1,0 +1,8 @@
+CardName: 밤톨맛 쿠키
+Illustrator: NEZZBE
+Cost: Yellow
+Level: 1
+HP: 1
+Number: ST2-007
+Rank: Common
+Kind: FLIP

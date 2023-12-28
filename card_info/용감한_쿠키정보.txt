@@ -1,0 +1,8 @@
+CardName: 용감한 쿠키
+Illustrator: May Kim
+Cost: Red
+Level: 1
+HP: 1
+Number: BS1-013
+Rank: Common
+Kind: COOKIE

@@ -1,0 +1,1542 @@
+[
+    {
+        "CardName": "\uac15\ucca0 \ud0dc\uc5fd \ubc29\ud328",
+        "Illustrator": "NASARU",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST2-020",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\uac70\ub300\ud55c \uccb4\ub9ac \ud3ed\ud0c4",
+        "Illustrator": "Seahorse",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-022",
+        "Rank": "Rare",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uace0\ub300 \uc232\uc758 \ud589\uc6b4\uc11d",
+        "Illustrator": "Yoon GaHyun",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-074",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uace0\ub300 \uce58\uc720\uc0ac\uc758 \ubcf4\uc0b4\ud54c",
+        "Illustrator": "porksoda",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST3-016",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uace0\ube14\ub9b0\ub9db \ucfe0\ud0a4",
+        "Illustrator": "InHyuk Lee",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-001",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uace0\uc7a5\ub09c \ud751\ub2f9 \ub4dc\ub77c\uc774\ubc84",
+        "Illustrator": "Hyeseong Ahn",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST2-016",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uacf5\uc8fc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST1-001",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uad34\ub3c4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "porksoda",
+        "Cost": "Green",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-053",
+        "Rank": "Ultra Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uad34\ub3c4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Yellow Mix",
+        "Level": "3",
+        "HP": "6",
+        "Number": "ST2-001",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uad6c\ubbf8\ud638\ub9db \ucfe0\ud0a4",
+        "Illustrator": "WEJI",
+        "Cost": "Red",
+        "Level": "3",
+        "HP": "3",
+        "Number": "BS1-002",
+        "Rank": "Rare",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uad6c\uc2ac\uc544\uc774\uc2a4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "May Kim",
+        "Cost": "Yellow Mix",
+        "Level": "2",
+        "HP": "4",
+        "Number": "BS1-027",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uadfc\uc721\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST3-001",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uadfc\uc721\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST3-001",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uae5c\uc9dd \uc410\uae30\ud480",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-076",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ub048\ub048\uc774 \uc824\ub9ac",
+        "Illustrator": "Miji Lee",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST1-016",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\ub09c\ucd08\ub9db \ucfe0\ud0a4",
+        "Illustrator": "NEZZBE",
+        "Cost": "Green",
+        "Level": "3",
+        "HP": "5",
+        "Number": "BS1-054",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub2cc\uc790\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST1-002",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub2e4\uc774\ub178\uc0ac\uc6cc \ucfe0\ud0a4",
+        "Illustrator": "LEEPIX_X",
+        "Cost": "Red Mix",
+        "Level": "2",
+        "HP": "1",
+        "Number": "ST1-003",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub2e4\ud06c\ucd08\ucf54 \ucfe0\ud0a4",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Red",
+        "Level": "2",
+        "HP": "4",
+        "Number": "BS1-003",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub2e8\ud325\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-055",
+        "Rank": "Uncommon",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ub2ec\ud1a0\ub07c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Gajee",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "3",
+        "Number": "BS1-056",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub2f9\uadfc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "1",
+        "Number": "ST1-004",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ub300\ud30c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red Mix",
+        "Level": "2",
+        "HP": "3",
+        "Number": "ST1-005",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub354\ub355\uaf43\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Gajee",
+        "Cost": "Green Mix",
+        "Level": "1",
+        "HP": "4",
+        "Number": "BS1-057",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub3c5\ubc84\uc12f\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Art Elephant",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-058",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub418\uc0b4\uc544\ub098\ub294 \uace0\ub300 \uc232",
+        "Illustrator": "Yoon GaHyun",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-078",
+        "Rank": "Uncommon",
+        "Kind": "STAGE"
+    },
+    {
+        "CardName": "\ub538\uae30\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Yellow Mix",
+        "Level": "1",
+        "HP": "3",
+        "Number": "ST2-002",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub538\uae30\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Miji Lee",
+        "Cost": "Yellow",
+        "Level": "3",
+        "HP": "4",
+        "Number": "P-005",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub538\uae30\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Yellow Mix",
+        "Level": "1",
+        "HP": "3",
+        "Number": "ST2-002",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub538\uae30\ud06c\ub808\ud398\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green",
+        "Level": "3",
+        "HP": "6",
+        "Number": "ST3-002",
+        "Rank": "Super rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub77c\ub5bc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Hyeseong Ahn",
+        "Cost": "Yellow",
+        "Level": "3",
+        "HP": "5",
+        "Number": "BS1-028",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub77c\uc77c\ub77d\ub9db \ucfe0\ud0a4",
+        "Illustrator": "LEE Woo-chul",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-004",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub77c\uc784\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kinas",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-029",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub77d\uc2a4\ud0c0\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Haeli Lee",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-030",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ub864\ucf00\uc774\ud06c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Red",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-005",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub9ac\ubc84\uc2a4 \ud0c0\uc774\uba38",
+        "Illustrator": "Miji Lee",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST2-017",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\ub9c8\ub77c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "NASARU",
+        "Cost": "Red",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-006",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub9c8\ubc95\uc0ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Yellow Mix",
+        "Level": "3",
+        "HP": "3",
+        "Number": "ST2-003",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub9c8\ubc95\uc0ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Yellow Mix",
+        "Level": "3",
+        "HP": "3",
+        "Number": "ST2-003",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub9c8\uc2dc\uba5c\ub85c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "orompark",
+        "Cost": "Yellow Mix",
+        "Level": "1",
+        "HP": "3",
+        "Number": "BS1-031",
+        "Rank": "Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ub9c8\uce74\ub871\ub9db \ucfe0\ud0a4",
+        "Illustrator": "LEEPIX_X",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST2-004",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uba38\ub7ad \uac00\uc2dc \ub369\uad74",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST3-017",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uba38\uc2a4\ud130\ub4dc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "1",
+        "Number": "ST2-005",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uba54\ub860\ube75\ub9db \ucfe0\ud0a4",
+        "Illustrator": "GAMZA",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "4",
+        "Number": "BS1-007",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uba85\ub791\ud55c \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "3",
+        "Number": "P-002",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uba85\ub791\ud55c \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green",
+        "Level": "1",
+        "HP": "3",
+        "Number": "P-003",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uba85\ub791\ud55c \ucfe0\ud0a4",
+        "Illustrator": "Jihye Baik",
+        "Cost": "Yellow Mix",
+        "Level": "2",
+        "HP": "4",
+        "Number": "ST2-006",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uba85\ub791\ud55c \ucfe0\ud0a4",
+        "Illustrator": "Andy_na",
+        "Cost": "Red Mix",
+        "Level": "2",
+        "HP": "4",
+        "Number": "ST1-006",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uba85\ub791\ud55c \ucfe0\ud0a4",
+        "Illustrator": "NEZZBE",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "4",
+        "Number": "ST3-003",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uba85\ub791\ud55c \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "3",
+        "Number": "P-001",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubb34\ud654\uacfc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "WEJI",
+        "Cost": "Green Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "BS1-059",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubbfc\ud2b8\ucd08\ucf54 \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Red",
+        "Level": "3",
+        "HP": "3",
+        "Number": "ST1-007",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubc14\ub098\ub098\ub9db \ucfe0\ud0a4",
+        "Illustrator": "NEZZBE",
+        "Cost": "Yellow Mix",
+        "Level": "1",
+        "HP": "4",
+        "Number": "BS1-032",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubc24\ud1a8\ub9db \ucfe0\ud0a4",
+        "Illustrator": "NEZZBE",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "1",
+        "Number": "ST2-007",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ubc29\ub791\uc790\uc758 \uc0ac\uacfc\ud30c\uc774",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-075",
+        "Rank": "Rare",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\ubc31\ub9cc \ubc88 \ud718\uc800\uc740 \ud718\ud551\ud06c\ub9bc",
+        "Illustrator": "orompark",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST3-019",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ubc40\ud30c\uc774\uc5b4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green Mix",
+        "Level": "3",
+        "HP": "3",
+        "Number": "ST3-004",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubc84\ud130\ubca0\uc5b4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Haeli Lee",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-060",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubc9a\uaf43\ub9db \ucfe0\ud0a4",
+        "Illustrator": "LEEPIX_X",
+        "Cost": "Red",
+        "Level": "3",
+        "HP": "1",
+        "Number": "ST1-008",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubcc4\uc0ac\ud0d5 \uc624\uc194\uae38",
+        "Illustrator": "NEZZBE",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-052",
+        "Rank": "Uncommon",
+        "Kind": "STAGE"
+    },
+    {
+        "CardName": "\ubcf5\uc22d\uc544\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Min Yum",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "4",
+        "Number": "BS1-061",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ubd80\uc11c\uc9c4 \uc774\uc815\ud45c",
+        "Illustrator": "Miji Lee",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-050",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ube14\ub799\ubca0\ub9ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "LEEPIX_X",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST3-005",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ube44\uc7a5\uc758 \ucf00\uc774\ud06c \ub098\uc774\ud504",
+        "Illustrator": "Miji Lee",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST1-017",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\ube44\ud2b8\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "3",
+        "Number": "ST3-006",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc0ac\ub9c9 \uc18d \uc624\uc544\uc2dc\uc2a4",
+        "Illustrator": "Hyeseong Ahn",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-026",
+        "Rank": "Uncommon",
+        "Kind": "STAGE"
+    },
+    {
+        "CardName": "\uc0ac\uc774\ubcf4\uadf8\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-033",
+        "Rank": "Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc0cc\ub4dc\uc704\uce58\ub9db \ucfe0\ud0a4",
+        "Illustrator": "May Kim",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "1",
+        "Number": "BS1-034",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc0dd\uba85\ub825 \ub4ec\ubfcd \ub2f4\uc740 \ud30c\uc2ac\ub9ac \ucc28",
+        "Illustrator": "NASARU",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST3-018",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uc11d\ub958\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Yeonji Rhee",
+        "Cost": "Red",
+        "Level": "2",
+        "HP": "5",
+        "Number": "BS1-008",
+        "Rank": "Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc19c\uc0ac\ud0d5\ub9db \ucfe0\ud0a4",
+        "Illustrator": "WEJI",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-035",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc218\ud638\ubaa9\uc758 \uc740\ud61c",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST3-022",
+        "Rank": "Uncommon",
+        "Kind": "STAGE"
+    },
+    {
+        "CardName": "\uc288\uac70\ubc94\ubc85 \ub2ec\ud33d\uc774 \uce94\ub514",
+        "Illustrator": "Miji Lee",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST1-018",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uc2a4\ub124\uc774\ud06c\ud6c4\ub974\uce20\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "4",
+        "Number": "BS1-036",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc2a4\ud30c\uc774\uc2dc \ud30c\uc6cc \uc8fc\uc2a4",
+        "Illustrator": "Taekseo",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-023",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uc2a4\ud30c\ud074\ub9c1\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green",
+        "Level": "3",
+        "HP": "3",
+        "Number": "ST3-007",
+        "Rank": "Uncommon",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uc2dc\uac04 \uc5ec\ud589 \ud2f0\ucf13",
+        "Illustrator": "Miji Lee",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST2-018",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uc2dc\uac04 \ud6a8\uc728 \uad00\ub9ac\ubd80",
+        "Illustrator": "Miji Lee",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST2-022",
+        "Rank": "Uncommon",
+        "Kind": "STAGE"
+    },
+    {
+        "CardName": "\uc2dc\uac04\uc9c0\uae30 \ucfe0\ud0a4",
+        "Illustrator": "InHyuk Lee",
+        "Cost": "Yellow",
+        "Level": "3",
+        "HP": "5",
+        "Number": "BS1-037",
+        "Rank": "Ultra Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc2dc\uae08\uce58\ub9db \ucfe0\ud0a4",
+        "Illustrator": "LEEPIX_X",
+        "Cost": "Green",
+        "Level": "1",
+        "HP": "1",
+        "Number": "ST3-008",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uc2dc\ub098\ubaac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "LEE Woo-chul",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "1",
+        "Number": "BS1-038",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc2e0\uc131\ud55c \ube5b\uc758 \uacb0\uacc4",
+        "Illustrator": "Taekseo",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST3-020",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\uc2e4\ub860\ub098\uc774\ud2b8 \ucfe0\ud0a4",
+        "Illustrator": "WEJI",
+        "Cost": "Green Mix",
+        "Level": "1",
+        "HP": "3",
+        "Number": "BS1-062",
+        "Rank": "Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc544\ubaac\ub4dc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Art Elephant",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "3",
+        "Number": "BS1-039",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc544\ubcf4\uce74\ub3c4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "May Kim",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST3-009",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc544\ud3ec\uac00\ud1a0\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Taekseo",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "3",
+        "Number": "BS1-009",
+        "Rank": "Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc545\ub9c8\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Art Elephant",
+        "Cost": "Red Mix",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-010",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc54c\ub85c\uc5d0\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "3",
+        "Number": "ST3-010",
+        "Rank": "Super rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc575\ub450\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Jambee",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-011",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc591\ud30c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST3-011",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uc5bc\uadf8\ub808\uc774\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Yeonji Rhee",
+        "Cost": "Yellow",
+        "Level": "3",
+        "HP": "3",
+        "Number": "BS1-040",
+        "Rank": "Rare",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uc5d0\uc2a4\ud504\ub808\uc18c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red",
+        "Level": "3",
+        "HP": "5",
+        "Number": "ST1-009",
+        "Rank": "Super rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc5d0\ud074\ub808\uc5b4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Yellow",
+        "Level": "3",
+        "HP": "5",
+        "Number": "ST2-008",
+        "Rank": "Super rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc5f0\uae08\uc220\uc0ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "1",
+        "Number": "ST1-010",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc601\uc591 \uac00\ub4dd \uafc0 \ud3ed\ud0c4",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST2-019",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\uc608\uc5b8\uc790\ub9db \ucfe0\ud0a4",
+        "Illustrator": "porksoda",
+        "Cost": "Green Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-063",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc624\ub80c\uc9c0\ub9db \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Yellow",
+        "Level": "1",
+        "HP": "1",
+        "Number": "BS1-041",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uc634\uc9dd\ub2ec\uc2f9 \ubc18\uc8fd\ub2aa",
+        "Illustrator": "Steve Jang",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST1-020",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\uc640\uc77c\ub4dc\ubca0\ub9ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "porksoda",
+        "Cost": "Red",
+        "Level": "3",
+        "HP": "6",
+        "Number": "BS1-012",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uac10\ud55c \ucfe0\ud0a4",
+        "Illustrator": "InHyuk Lee",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-014",
+        "Rank": "Ultra Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uac10\ud55c \ucfe0\ud0a4",
+        "Illustrator": "porksoda",
+        "Cost": "Yellow Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "ST2-009",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uac10\ud55c \ucfe0\ud0a4&\ubb34\ubb34\uc528",
+        "Illustrator": "Miji Lee",
+        "Cost": "Red Mix",
+        "Level": "2",
+        "HP": "3",
+        "Number": "P-004",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uac10\ud55c \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "ST1-011",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uac10\ud55c \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "ST1-011",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uac10\ud55c \ucfe0\ud0a4",
+        "Illustrator": "NASARU",
+        "Cost": "Green Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "ST3-012",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uac10\ud55c \ucfe0\ud0a4",
+        "Illustrator": "May Kim",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "1",
+        "Number": "BS1-013",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc6a9\uc0ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Watanabe Kenji",
+        "Cost": "Green Mix",
+        "Level": "1",
+        "HP": "3",
+        "Number": "ST3-013",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc774\uae00\uc774\uae00 \uc824\ub9ac \ud654\uc0b0",
+        "Illustrator": "Miji Lee",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST1-022",
+        "Rank": "Uncommon",
+        "Kind": "STAGE"
+    },
+    {
+        "CardName": "\uc778\uc0bc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Gajee",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-064",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc790\ub450\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Min Yum",
+        "Cost": "Green Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-065",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc790\ubabd\ub9db \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-042",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc790\uc0c9\uace0\uad6c\ub9c8\ub9db \ucfe0\ud0a4",
+        "Illustrator": "porksoda",
+        "Cost": "Yellow Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "ST2-010",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc798\ubabb \ubc1f\uc740 \ubcc4\uc0ac\ud0d5",
+        "Illustrator": "NEZZBE",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST1-021",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\uc7a5\ubbf8\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Miji Lee",
+        "Cost": "Red",
+        "Level": "3",
+        "HP": "3",
+        "Number": "BS1-015",
+        "Rank": "Uncommon",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uc7bc\ud30c\uc774 \uad6c\uae09\uc0c1\uc790",
+        "Illustrator": "Hyeseong Ahn",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-077",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\uc880\ube44\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green Mix",
+        "Level": "1",
+        "HP": "2",
+        "Number": "P-006",
+        "Rank": "PROMOTION",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc880\ube44\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Watanabe Kenji",
+        "Cost": "Red Mix",
+        "Level": "1",
+        "HP": "3",
+        "Number": "ST1-012",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uc9c0\ucd08\ub9db \ucfe0\ud0a4",
+        "Illustrator": "NEZZBE",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "4",
+        "Number": "BS1-066",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ucc9c\uc0ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green",
+        "Level": "1",
+        "HP": "1",
+        "Number": "ST3-014",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uccb4\ub9ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Yellow Mix",
+        "Level": "2",
+        "HP": "3",
+        "Number": "ST2-011",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ucd08\ucf54\ubcfc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Jambee",
+        "Cost": "Red",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-016",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uce04\ub7ec\uc2a4\ub9db \ucfe0\ud0a4",
+        "Illustrator": "InHyuk Lee",
+        "Cost": "Green",
+        "Level": "3",
+        "HP": "3",
+        "Number": "BS1-067",
+        "Rank": "Rare",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uce58\uc5b4\ub9ac\ub354\ub9db \ucfe0\ud0a4",
+        "Illustrator": "LEEPIX_X",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "2",
+        "Number": "ST2-012",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\uce58\uc988\ucf00\uc774\ud06c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Haeli Lee",
+        "Cost": "Yellow Mix",
+        "Level": "2",
+        "HP": "2",
+        "Number": "BS1-043",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uce58\uc988\ucf00\uc774\ud06c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kinas",
+        "Cost": "Yellow Mix",
+        "Level": "2",
+        "HP": "3",
+        "Number": "ST2-013",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\uce60\ub9ac\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Kenji Watanabe",
+        "Cost": "Green",
+        "Level": "3",
+        "HP": "4",
+        "Number": "ST3-015",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ucee4\uc2a4\ud130\ub4dc 3\uc138\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Jihye Baik",
+        "Cost": "Yellow",
+        "Level": "3",
+        "HP": "3",
+        "Number": "ST2-014",
+        "Rank": "Uncommon",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ucf5c\ub9ac\ud50c\ub77c\uc6cc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "NASARU",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "4",
+        "Number": "BS1-068",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ucfe0\ud0a4\uba40\uc988",
+        "Illustrator": "Haeli Lee",
+        "Cost": "Green",
+        "Level": "1",
+        "HP": "1",
+        "Number": "BS1-069",
+        "Rank": "Uncommon",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ud06c\ub8e8\uc544\uc0c1\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Art Elephant",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "2",
+        "Number": "BS1-017",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud0a4\uc704\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Miji Lee",
+        "Cost": "Green Mix",
+        "Level": "2",
+        "HP": "3",
+        "Number": "BS1-070",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud0d0\ud5d8\uac00\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Watanabe Kenji",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "1",
+        "Number": "ST1-013",
+        "Rank": "Common",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ud14c\uc774\ud504 \uc824\ub9ac \ud3fc\ud3fc",
+        "Illustrator": "NEZZBE",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-048",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\ud2b8\ub85c\ud53c\uceec \uc2ac\ub7ec\uc2dc",
+        "Illustrator": "Seahorse",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-049",
+        "Rank": "Rare",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\ud30c\uc2a4\ud0c0 \uc2a4\ud504\ub9c1 \uc288\uc988",
+        "Illustrator": "NEZZBE",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-024",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ud30c\uc778\uc560\ud50c \ud5ec\uba67",
+        "Illustrator": "orompark",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-025",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ud30c\ud504\ub9ac\uce74\ub9db \ucfe0\ud0a4",
+        "Illustrator": "NEZZBE",
+        "Cost": "Yellow",
+        "Level": "2",
+        "HP": "3",
+        "Number": "BS1-044",
+        "Rank": "Super Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud31d\ucf58\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Jihye Baik",
+        "Cost": "Red",
+        "Level": "1",
+        "HP": "1",
+        "Number": "BS1-018",
+        "Rank": "Uncommon",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ud38c\ud0a8\ud30c\uc774\ub9db \ucfe0\ud0a4",
+        "Illustrator": "WEJI",
+        "Cost": "Green Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "BS1-071",
+        "Rank": "Rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud398\ud398\ub860\uce58\ub178\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Watanabe Kenji",
+        "Cost": "Red Mix",
+        "Level": "3",
+        "HP": "6",
+        "Number": "ST1-014",
+        "Rank": "Super rare",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud3ed\uc8fd\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Jambee",
+        "Cost": "Yellow Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "BS1-045",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud478\ub529\ub9db \ucfe0\ud0a4",
+        "Illustrator": "surisuri",
+        "Cost": "Green Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "BS1-072",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud480\ud53c\ub9ac\uc758 \ubd80\ub984",
+        "Illustrator": "Taekseo",
+        "Cost": "Green",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST3-021",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ud48b\uc0ac\uacfc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Jihye Baik",
+        "Cost": "Yellow Mix",
+        "Level": "3",
+        "HP": "1",
+        "Number": "BS1-046",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud504\ub808\uccbc \ub36b",
+        "Illustrator": "NASARU",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST2-021",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ud53c\uc2a4\ud0c0\uce58\uc624\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Hyeseong Ahn",
+        "Cost": "Red",
+        "Level": "3",
+        "HP": "3",
+        "Number": "ST1-015",
+        "Rank": "Uncommon",
+        "Kind": "FLIP"
+    },
+    {
+        "CardName": "\ud53c\uc790\ub9db \ucfe0\ud0a4",
+        "Illustrator": "May Kim",
+        "Cost": "Yellow Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "BS1-047",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud5c8\ube0c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "WEJI",
+        "Cost": "Green",
+        "Level": "2",
+        "HP": "3",
+        "Number": "BS1-073",
+        "Rank": "Uncommon",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud638\ub450\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Art Elephant",
+        "Cost": "Red Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "BS1-019",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud64d\uace0\ucd94\ub9db \ucfe0\ud0a4",
+        "Illustrator": "porksoda",
+        "Cost": "Red Mix",
+        "Level": "3",
+        "HP": "4",
+        "Number": "BS1-020",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud654\ub048\ud55c \uc824\ub9ac \ub369\uc5b4\ub9ac",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Red",
+        "Level": "",
+        "HP": "-",
+        "Number": "ST1-019",
+        "Rank": "Uncommon",
+        "Kind": "ITEM"
+    },
+    {
+        "CardName": "\ud65c\ub825 \ub4ec\ubfcd \uc824\ub9ac \ubc14",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Yellow",
+        "Level": "",
+        "HP": "-",
+        "Number": "BS1-051",
+        "Rank": "Uncommon",
+        "Kind": "TRAP"
+    },
+    {
+        "CardName": "\ud718\ud551\ud06c\ub9bc\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Art Elephant",
+        "Cost": "Red Mix",
+        "Level": "2",
+        "HP": "4",
+        "Number": "BS1-021",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    },
+    {
+        "CardName": "\ud788\uc5b4\ub85c\ub9db \ucfe0\ud0a4",
+        "Illustrator": "Park Jun Seong",
+        "Cost": "Yellow Mix",
+        "Level": "2",
+        "HP": "3",
+        "Number": "ST2-015",
+        "Rank": "Common",
+        "Kind": "COOKIE"
+    }
+]

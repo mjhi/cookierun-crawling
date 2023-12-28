@@ -1,0 +1,8 @@
+CardName: 크루아상맛 쿠키
+Illustrator: Art Elephant
+Cost: Red
+Level: 1
+HP: 2
+Number: BS1-017
+Rank: Super Rare
+Kind: COOKIE

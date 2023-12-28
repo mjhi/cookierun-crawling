@@ -1,0 +1,8 @@
+CardName: 무화과맛 쿠키
+Illustrator: WEJI
+Cost: Green Mix
+Level: 3
+HP: 4
+Number: BS1-059
+Rank: Common
+Kind: COOKIE

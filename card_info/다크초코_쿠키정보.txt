@@ -1,0 +1,8 @@
+CardName: 다크초코 쿠키
+Illustrator: Park Jun Seong
+Cost: Red
+Level: 2
+HP: 4
+Number: BS1-003
+Rank: Super Rare
+Kind: COOKIE

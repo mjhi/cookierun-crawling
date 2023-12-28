@@ -1,0 +1,8 @@
+CardName: 풀피리의 부름
+Illustrator: Taekseo
+Cost: Green
+Level: 
+HP: -
+Number: ST3-021
+Rank: Uncommon
+Kind: TRAP

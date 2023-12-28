@@ -1,0 +1,8 @@
+CardName: 탐험가맛 쿠키
+Illustrator: Watanabe Kenji
+Cost: Red
+Level: 1
+HP: 1
+Number: ST1-013
+Rank: Common
+Kind: FLIP

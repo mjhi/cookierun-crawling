@@ -1,0 +1,8 @@
+CardName: 지초맛 쿠키
+Illustrator: NEZZBE
+Cost: Green
+Level: 2
+HP: 4
+Number: BS1-066
+Rank: Super Rare
+Kind: COOKIE

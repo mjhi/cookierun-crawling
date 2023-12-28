@@ -1,0 +1,8 @@
+CardName: 샌드위치맛 쿠키
+Illustrator: May Kim
+Cost: Yellow
+Level: 1
+HP: 1
+Number: BS1-034
+Rank: Common
+Kind: COOKIE

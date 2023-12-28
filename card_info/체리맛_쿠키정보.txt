@@ -1,0 +1,8 @@
+CardName: 체리맛 쿠키
+Illustrator: surisuri
+Cost: Yellow Mix
+Level: 2
+HP: 3
+Number: ST2-011
+Rank: Common
+Kind: COOKIE

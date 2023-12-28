@@ -1,0 +1,8 @@
+CardName: 좀비맛 쿠키
+Illustrator: Miji Lee
+Cost: Green Mix
+Level: 1
+HP: 2
+Number: P-006
+Rank: PROMOTION
+Kind: COOKIE

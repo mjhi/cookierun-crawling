@@ -1,0 +1,8 @@
+CardName: 석류맛 쿠키
+Illustrator: Yeonji Rhee
+Cost: Red
+Level: 2
+HP: 5
+Number: BS1-008
+Rank: Rare
+Kind: COOKIE

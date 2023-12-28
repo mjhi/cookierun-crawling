@@ -1,0 +1,8 @@
+CardName: 펌킨파이맛 쿠키
+Illustrator: WEJI
+Cost: Green Mix
+Level: 3
+HP: 4
+Number: BS1-071
+Rank: Rare
+Kind: COOKIE

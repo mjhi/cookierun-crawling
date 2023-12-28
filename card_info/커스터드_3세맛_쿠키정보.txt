@@ -1,0 +1,8 @@
+CardName: 커스터드 3세맛 쿠키
+Illustrator: Jihye Baik
+Cost: Yellow
+Level: 3
+HP: 3
+Number: ST2-014
+Rank: Uncommon
+Kind: FLIP

@@ -1,0 +1,8 @@
+CardName: 당근맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Red
+Level: 1
+HP: 1
+Number: ST1-004
+Rank: Common
+Kind: FLIP

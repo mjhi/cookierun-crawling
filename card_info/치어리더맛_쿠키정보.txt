@@ -1,0 +1,8 @@
+CardName: 치어리더맛 쿠키
+Illustrator: LEEPIX_X
+Cost: Yellow
+Level: 2
+HP: 2
+Number: ST2-012
+Rank: Common
+Kind: FLIP

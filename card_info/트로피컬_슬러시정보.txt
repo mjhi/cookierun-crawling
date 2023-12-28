@@ -1,0 +1,8 @@
+CardName: 트로피컬 슬러시
+Illustrator: Seahorse
+Cost: Yellow
+Level: 
+HP: -
+Number: BS1-049
+Rank: Rare
+Kind: ITEM

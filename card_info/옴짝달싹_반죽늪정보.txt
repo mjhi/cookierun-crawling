@@ -1,0 +1,8 @@
+CardName: 옴짝달싹 반죽늪
+Illustrator: Steve Jang
+Cost: Red
+Level: 
+HP: -
+Number: ST1-020
+Rank: Uncommon
+Kind: TRAP

@@ -1,0 +1,8 @@
+CardName: 아포가토맛 쿠키
+Illustrator: Taekseo
+Cost: Red Mix
+Level: 1
+HP: 3
+Number: BS1-009
+Rank: Rare
+Kind: COOKIE

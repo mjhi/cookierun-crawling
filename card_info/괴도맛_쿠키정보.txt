@@ -1,0 +1,8 @@
+CardName: 괴도맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Yellow Mix
+Level: 3
+HP: 6
+Number: ST2-001
+Rank: Super Rare
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 잘못 밟은 별사탕
+Illustrator: NEZZBE
+Cost: Red
+Level: 
+HP: -
+Number: ST1-021
+Rank: Uncommon
+Kind: TRAP

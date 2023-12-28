@@ -1,0 +1,8 @@
+CardName: 고장난 흑당 드라이버
+Illustrator: Hyeseong Ahn
+Cost: Yellow
+Level: 
+HP: -
+Number: ST2-016
+Rank: Uncommon
+Kind: ITEM

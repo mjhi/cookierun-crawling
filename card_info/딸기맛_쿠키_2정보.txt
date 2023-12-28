@@ -1,0 +1,8 @@
+CardName: 딸기맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Yellow Mix
+Level: 1
+HP: 3
+Number: ST2-002
+Rank: Common
+Kind: COOKIE

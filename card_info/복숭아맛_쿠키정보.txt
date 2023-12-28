@@ -1,0 +1,8 @@
+CardName: 복숭아맛 쿠키
+Illustrator: Min Yum
+Cost: Green Mix
+Level: 2
+HP: 4
+Number: BS1-061
+Rank: Common
+Kind: COOKIE

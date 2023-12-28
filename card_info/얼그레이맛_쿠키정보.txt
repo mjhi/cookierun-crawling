@@ -1,0 +1,8 @@
+CardName: 얼그레이맛 쿠키
+Illustrator: Yeonji Rhee
+Cost: Yellow
+Level: 3
+HP: 3
+Number: BS1-040
+Rank: Rare
+Kind: FLIP

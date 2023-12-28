@@ -1,0 +1,8 @@
+CardName: 용감한 쿠키&무무씨
+Illustrator: Miji Lee
+Cost: Red Mix
+Level: 2
+HP: 3
+Number: P-004
+Rank: PROMOTION
+Kind: COOKIE

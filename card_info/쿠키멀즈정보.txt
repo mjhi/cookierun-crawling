@@ -1,0 +1,8 @@
+CardName: 쿠키멀즈
+Illustrator: Haeli Lee
+Cost: Green
+Level: 1
+HP: 1
+Number: BS1-069
+Rank: Uncommon
+Kind: FLIP

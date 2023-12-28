@@ -1,0 +1,8 @@
+CardName: 민트초코 쿠키
+Illustrator: surisuri
+Cost: Red
+Level: 3
+HP: 3
+Number: ST1-007
+Rank: Common
+Kind: COOKIE

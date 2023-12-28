@@ -1,0 +1,8 @@
+CardName: 프레첼 덫
+Illustrator: NASARU
+Cost: Yellow
+Level: 
+HP: -
+Number: ST2-021
+Rank: Uncommon
+Kind: TRAP

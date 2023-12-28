@@ -1,0 +1,8 @@
+CardName: 허브맛 쿠키
+Illustrator: WEJI
+Cost: Green
+Level: 2
+HP: 3
+Number: BS1-073
+Rank: Uncommon
+Kind: COOKIE

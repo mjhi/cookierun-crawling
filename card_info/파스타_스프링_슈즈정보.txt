@@ -1,0 +1,8 @@
+CardName: 파스타 스프링 슈즈
+Illustrator: NEZZBE
+Cost: Red
+Level: 
+HP: -
+Number: BS1-024
+Rank: Uncommon
+Kind: TRAP

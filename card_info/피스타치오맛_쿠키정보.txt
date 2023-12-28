@@ -1,0 +1,8 @@
+CardName: 피스타치오맛 쿠키
+Illustrator: Hyeseong Ahn
+Cost: Red
+Level: 3
+HP: 3
+Number: ST1-015
+Rank: Uncommon
+Kind: FLIP

@@ -1,0 +1,8 @@
+CardName: 테이프 젤리 폼폼
+Illustrator: NEZZBE
+Cost: Yellow
+Level: 
+HP: -
+Number: BS1-048
+Rank: Uncommon
+Kind: ITEM

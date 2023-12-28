@@ -1,0 +1,8 @@
+CardName: 강철 태엽 방패
+Illustrator: NASARU
+Cost: Yellow
+Level: 
+HP: -
+Number: ST2-020
+Rank: Uncommon
+Kind: TRAP

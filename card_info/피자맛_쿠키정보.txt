@@ -1,0 +1,8 @@
+CardName: 피자맛 쿠키
+Illustrator: May Kim
+Cost: Yellow Mix
+Level: 3
+HP: 4
+Number: BS1-047
+Rank: Common
+Kind: COOKIE

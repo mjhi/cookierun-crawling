@@ -1,0 +1,8 @@
+CardName: 고대 치유사의 보살핌
+Illustrator: porksoda
+Cost: Green
+Level: 
+HP: -
+Number: ST3-016
+Rank: Uncommon
+Kind: ITEM

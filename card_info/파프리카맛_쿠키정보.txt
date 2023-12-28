@@ -1,0 +1,8 @@
+CardName: 파프리카맛 쿠키
+Illustrator: NEZZBE
+Cost: Yellow
+Level: 2
+HP: 3
+Number: BS1-044
+Rank: Super Rare
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 사막 속 오아시스
+Illustrator: Hyeseong Ahn
+Cost: Red
+Level: 
+HP: -
+Number: BS1-026
+Rank: Uncommon
+Kind: STAGE

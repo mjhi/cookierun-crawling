@@ -1,0 +1,8 @@
+CardName: 아몬드맛 쿠키
+Illustrator: Art Elephant
+Cost: Yellow
+Level: 2
+HP: 3
+Number: BS1-039
+Rank: Uncommon
+Kind: COOKIE

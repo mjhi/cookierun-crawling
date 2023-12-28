@@ -1,0 +1,8 @@
+CardName: 아보카도맛 쿠키
+Illustrator: May Kim
+Cost: Green
+Level: 2
+HP: 2
+Number: ST3-009
+Rank: Common
+Kind: COOKIE

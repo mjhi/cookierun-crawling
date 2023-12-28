@@ -1,0 +1,8 @@
+CardName: 키위맛 쿠키
+Illustrator: Miji Lee
+Cost: Green Mix
+Level: 2
+HP: 3
+Number: BS1-070
+Rank: Uncommon
+Kind: COOKIE

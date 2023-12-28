@@ -1,0 +1,8 @@
+CardName: 머스터드맛 쿠키
+Illustrator: surisuri
+Cost: Yellow
+Level: 1
+HP: 1
+Number: ST2-005
+Rank: Common
+Kind: FLIP

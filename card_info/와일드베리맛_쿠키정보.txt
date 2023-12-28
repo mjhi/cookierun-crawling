@@ -1,0 +1,8 @@
+CardName: 와일드베리맛 쿠키
+Illustrator: porksoda
+Cost: Red
+Level: 3
+HP: 6
+Number: BS1-012
+Rank: Super Rare
+Kind: COOKIE

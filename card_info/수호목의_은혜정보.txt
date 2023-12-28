@@ -1,0 +1,8 @@
+CardName: 수호목의 은혜
+Illustrator: Miji Lee
+Cost: Green
+Level: 
+HP: -
+Number: ST3-022
+Rank: Uncommon
+Kind: STAGE

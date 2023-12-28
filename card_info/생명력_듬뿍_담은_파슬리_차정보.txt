@@ -1,0 +1,8 @@
+CardName: 생명력 듬뿍 담은 파슬리 차
+Illustrator: NASARU
+Cost: Green
+Level: 
+HP: -
+Number: ST3-018
+Rank: Uncommon
+Kind: ITEM

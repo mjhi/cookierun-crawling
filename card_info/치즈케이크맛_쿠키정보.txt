@@ -1,0 +1,8 @@
+CardName: 치즈케이크맛 쿠키
+Illustrator: Kinas
+Cost: Yellow Mix
+Level: 2
+HP: 3
+Number: ST2-013
+Rank: Uncommon
+Kind: COOKIE

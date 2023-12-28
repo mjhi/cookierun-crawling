@@ -1,0 +1,8 @@
+CardName: 솜사탕맛 쿠키
+Illustrator: WEJI
+Cost: Yellow
+Level: 2
+HP: 2
+Number: BS1-035
+Rank: Uncommon
+Kind: COOKIE

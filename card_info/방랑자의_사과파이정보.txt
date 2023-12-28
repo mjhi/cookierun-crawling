@@ -1,0 +1,8 @@
+CardName: 방랑자의 사과파이
+Illustrator: Park Jun Seong
+Cost: Green
+Level: 
+HP: -
+Number: BS1-075
+Rank: Rare
+Kind: ITEM

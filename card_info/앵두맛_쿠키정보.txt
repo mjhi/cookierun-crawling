@@ -1,0 +1,8 @@
+CardName: 앵두맛 쿠키
+Illustrator: Jambee
+Cost: Red Mix
+Level: 1
+HP: 2
+Number: BS1-011
+Rank: Common
+Kind: COOKIE

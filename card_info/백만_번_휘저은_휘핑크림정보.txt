@@ -1,0 +1,8 @@
+CardName: 백만 번 휘저은 휘핑크림
+Illustrator: orompark
+Cost: Green
+Level: 
+HP: -
+Number: ST3-019
+Rank: Uncommon
+Kind: TRAP

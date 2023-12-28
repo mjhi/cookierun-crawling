@@ -1,0 +1,8 @@
+CardName: 파인애플 헬멧
+Illustrator: orompark
+Cost: Red
+Level: 
+HP: -
+Number: BS1-025
+Rank: Uncommon
+Kind: TRAP

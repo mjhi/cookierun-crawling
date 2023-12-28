@@ -1,0 +1,8 @@
+CardName: 명랑한 쿠키
+Illustrator: NEZZBE
+Cost: Green Mix
+Level: 2
+HP: 4
+Number: ST3-003
+Rank: Common
+Kind: COOKIE

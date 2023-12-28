@@ -1,0 +1,8 @@
+CardName: 머랭 가시 덩굴
+Illustrator: Miji Lee
+Cost: Green
+Level: 
+HP: -
+Number: ST3-017
+Rank: Uncommon
+Kind: ITEM

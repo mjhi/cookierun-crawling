@@ -1,0 +1,8 @@
+CardName: 치즈케이크맛 쿠키
+Illustrator: Haeli Lee
+Cost: Yellow Mix
+Level: 2
+HP: 2
+Number: BS1-043
+Rank: Common
+Kind: COOKIE

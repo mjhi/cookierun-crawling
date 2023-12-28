@@ -1,0 +1,8 @@
+CardName: 공주맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Red
+Level: 2
+HP: 2
+Number: ST1-001
+Rank: Common
+Kind: FLIP

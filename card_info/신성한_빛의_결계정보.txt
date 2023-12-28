@@ -1,0 +1,8 @@
+CardName: 신성한 빛의 결계
+Illustrator: Taekseo
+Cost: Green
+Level: 
+HP: -
+Number: ST3-020
+Rank: Uncommon
+Kind: TRAP

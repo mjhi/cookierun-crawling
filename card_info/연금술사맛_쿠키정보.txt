@@ -1,0 +1,8 @@
+CardName: 연금술사맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Red Mix
+Level: 1
+HP: 1
+Number: ST1-010
+Rank: Common
+Kind: COOKIE

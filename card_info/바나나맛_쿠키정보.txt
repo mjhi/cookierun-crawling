@@ -1,0 +1,8 @@
+CardName: 바나나맛 쿠키
+Illustrator: NEZZBE
+Cost: Yellow Mix
+Level: 1
+HP: 4
+Number: BS1-032
+Rank: Common
+Kind: COOKIE

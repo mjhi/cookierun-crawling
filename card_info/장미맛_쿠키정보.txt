@@ -1,0 +1,8 @@
+CardName: 장미맛 쿠키
+Illustrator: Miji Lee
+Cost: Red
+Level: 3
+HP: 3
+Number: BS1-015
+Rank: Uncommon
+Kind: FLIP

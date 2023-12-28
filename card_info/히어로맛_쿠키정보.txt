@@ -1,0 +1,8 @@
+CardName: 히어로맛 쿠키
+Illustrator: Park Jun Seong
+Cost: Yellow Mix
+Level: 2
+HP: 3
+Number: ST2-015
+Rank: Common
+Kind: COOKIE

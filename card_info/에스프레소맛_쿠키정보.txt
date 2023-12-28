@@ -1,0 +1,8 @@
+CardName: 에스프레소맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Red
+Level: 3
+HP: 5
+Number: ST1-009
+Rank: Super rare
+Kind: COOKIE

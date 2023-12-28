@@ -1,0 +1,8 @@
+CardName: 마시멜로맛 쿠키
+Illustrator: orompark
+Cost: Yellow Mix
+Level: 1
+HP: 3
+Number: BS1-031
+Rank: Rare
+Kind: COOKIE

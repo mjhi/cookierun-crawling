@@ -1,0 +1,8 @@
+CardName: 딸기크레페맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Green
+Level: 3
+HP: 6
+Number: ST3-002
+Rank: Super rare
+Kind: COOKIE

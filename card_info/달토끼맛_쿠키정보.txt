@@ -1,0 +1,8 @@
+CardName: 달토끼맛 쿠키
+Illustrator: Gajee
+Cost: Green
+Level: 2
+HP: 3
+Number: BS1-056
+Rank: Super Rare
+Kind: COOKIE

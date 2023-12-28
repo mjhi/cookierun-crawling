@@ -1,0 +1,8 @@
+CardName: 용감한 쿠키
+Illustrator: InHyuk Lee
+Cost: Red
+Level: 1
+HP: 2
+Number: BS1-014
+Rank: Ultra Rare
+Kind: COOKIE

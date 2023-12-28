@@ -1,0 +1,8 @@
+CardName: 더덕꽃맛 쿠키
+Illustrator: Gajee
+Cost: Green Mix
+Level: 1
+HP: 4
+Number: BS1-057
+Rank: Common
+Kind: COOKIE

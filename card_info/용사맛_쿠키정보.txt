@@ -1,0 +1,8 @@
+CardName: 용사맛 쿠키
+Illustrator: Watanabe Kenji
+Cost: Green Mix
+Level: 1
+HP: 3
+Number: ST3-013
+Rank: Common
+Kind: COOKIE

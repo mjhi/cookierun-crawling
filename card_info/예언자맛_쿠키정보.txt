@@ -1,0 +1,8 @@
+CardName: 예언자맛 쿠키
+Illustrator: porksoda
+Cost: Green Mix
+Level: 1
+HP: 2
+Number: BS1-063
+Rank: Common
+Kind: COOKIE

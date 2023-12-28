@@ -1,0 +1,8 @@
+CardName: 스파클링맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Green
+Level: 3
+HP: 3
+Number: ST3-007
+Rank: Uncommon
+Kind: FLIP

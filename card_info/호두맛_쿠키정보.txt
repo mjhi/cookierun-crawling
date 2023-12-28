@@ -1,0 +1,8 @@
+CardName: 호두맛 쿠키
+Illustrator: Art Elephant
+Cost: Red Mix
+Level: 3
+HP: 4
+Number: BS1-019
+Rank: Common
+Kind: COOKIE

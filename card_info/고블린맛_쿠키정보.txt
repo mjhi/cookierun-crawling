@@ -1,0 +1,8 @@
+CardName: 고블린맛 쿠키
+Illustrator: InHyuk Lee
+Cost: Red Mix
+Level: 1
+HP: 2
+Number: BS1-001
+Rank: Common
+Kind: COOKIE

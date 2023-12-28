@@ -1,0 +1,8 @@
+CardName: 활력 듬뿍 젤리 바
+Illustrator: Park Jun Seong
+Cost: Yellow
+Level: 
+HP: -
+Number: BS1-051
+Rank: Uncommon
+Kind: TRAP

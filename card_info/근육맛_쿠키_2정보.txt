@@ -1,0 +1,8 @@
+CardName: 근육맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Green Mix
+Level: 2
+HP: 2
+Number: ST3-001
+Rank: Common
+Kind: COOKIE

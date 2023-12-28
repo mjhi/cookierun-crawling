@@ -1,0 +1,8 @@
+CardName: 잼파이 구급상자
+Illustrator: Hyeseong Ahn
+Cost: Green
+Level: 
+HP: -
+Number: BS1-077
+Rank: Uncommon
+Kind: TRAP

@@ -1,0 +1,8 @@
+CardName: 시간 여행 티켓
+Illustrator: Miji Lee
+Cost: Yellow
+Level: 
+HP: -
+Number: ST2-018
+Rank: Uncommon
+Kind: ITEM

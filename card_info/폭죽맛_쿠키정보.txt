@@ -1,0 +1,8 @@
+CardName: 폭죽맛 쿠키
+Illustrator: Jambee
+Cost: Yellow Mix
+Level: 3
+HP: 4
+Number: BS1-045
+Rank: Common
+Kind: COOKIE

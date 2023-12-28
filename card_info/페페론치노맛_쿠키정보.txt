@@ -1,0 +1,8 @@
+CardName: 페페론치노맛 쿠키
+Illustrator: Watanabe Kenji
+Cost: Red Mix
+Level: 3
+HP: 6
+Number: ST1-014
+Rank: Super rare
+Kind: COOKIE

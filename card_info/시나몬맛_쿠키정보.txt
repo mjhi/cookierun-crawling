@@ -1,0 +1,8 @@
+CardName: 시나몬맛 쿠키
+Illustrator: LEE Woo-chul
+Cost: Yellow
+Level: 1
+HP: 1
+Number: BS1-038
+Rank: Uncommon
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 시간지기 쿠키
+Illustrator: InHyuk Lee
+Cost: Yellow
+Level: 3
+HP: 5
+Number: BS1-037
+Rank: Ultra Rare
+Kind: COOKIE

@@ -1,0 +1,8 @@
+CardName: 라임맛 쿠키
+Illustrator: Kinas
+Cost: Yellow
+Level: 1
+HP: 2
+Number: BS1-029
+Rank: Uncommon
+Kind: COOKIE

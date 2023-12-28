@@ -1,0 +1,8 @@
+CardName: 영양 가득 꿀 폭탄
+Illustrator: Park Jun Seong
+Cost: Yellow
+Level: 
+HP: -
+Number: ST2-019
+Rank: Uncommon
+Kind: ITEM

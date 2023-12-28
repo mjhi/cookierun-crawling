@@ -1,0 +1,8 @@
+CardName: 사이보그맛 쿠키
+Illustrator: Park Jun Seong
+Cost: Yellow
+Level: 1
+HP: 2
+Number: BS1-033
+Rank: Rare
+Kind: COOKIE

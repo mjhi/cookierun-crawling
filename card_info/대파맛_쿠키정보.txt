@@ -1,0 +1,8 @@
+CardName: 대파맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Red Mix
+Level: 2
+HP: 3
+Number: ST1-005
+Rank: Uncommon
+Kind: COOKIE

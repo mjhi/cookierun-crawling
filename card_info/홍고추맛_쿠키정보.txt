@@ -1,0 +1,8 @@
+CardName: 홍고추맛 쿠키
+Illustrator: porksoda
+Cost: Red Mix
+Level: 3
+HP: 4
+Number: BS1-020
+Rank: Common
+Kind: COOKIE

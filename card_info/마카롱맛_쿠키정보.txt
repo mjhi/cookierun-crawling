@@ -1,0 +1,8 @@
+CardName: 마카롱맛 쿠키
+Illustrator: LEEPIX_X
+Cost: Yellow
+Level: 2
+HP: 2
+Number: ST2-004
+Rank: Uncommon
+Kind: COOKIE

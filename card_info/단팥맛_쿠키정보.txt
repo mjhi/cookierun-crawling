@@ -1,0 +1,8 @@
+CardName: 단팥맛 쿠키
+Illustrator: Miji Lee
+Cost: Green
+Level: 2
+HP: 2
+Number: BS1-055
+Rank: Uncommon
+Kind: FLIP

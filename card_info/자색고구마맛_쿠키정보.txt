@@ -1,0 +1,8 @@
+CardName: 자색고구마맛 쿠키
+Illustrator: porksoda
+Cost: Yellow Mix
+Level: 3
+HP: 4
+Number: ST2-010
+Rank: Uncommon
+Kind: COOKIE

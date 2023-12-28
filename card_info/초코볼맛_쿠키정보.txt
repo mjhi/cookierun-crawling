@@ -1,0 +1,8 @@
+CardName: 초코볼맛 쿠키
+Illustrator: Jambee
+Cost: Red
+Level: 2
+HP: 2
+Number: BS1-016
+Rank: Common
+Kind: COOKIE

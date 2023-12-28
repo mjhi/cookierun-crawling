@@ -1,0 +1,8 @@
+CardName: 닌자맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Red
+Level: 2
+HP: 2
+Number: ST1-002
+Rank: Common
+Kind: COOKIE

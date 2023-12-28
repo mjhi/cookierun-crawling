@@ -1,0 +1,8 @@
+CardName: 좀비맛 쿠키
+Illustrator: Watanabe Kenji
+Cost: Red Mix
+Level: 1
+HP: 3
+Number: ST1-012
+Rank: Common
+Kind: COOKIE

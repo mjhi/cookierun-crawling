@@ -1,0 +1,8 @@
+CardName: 알로에맛 쿠키
+Illustrator: Kenji Watanabe
+Cost: Green
+Level: 2
+HP: 3
+Number: ST3-010
+Rank: Super rare
+Kind: COOKIE

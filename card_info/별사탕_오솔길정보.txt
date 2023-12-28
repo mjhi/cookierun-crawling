@@ -1,0 +1,8 @@
+CardName: 별사탕 오솔길
+Illustrator: NEZZBE
+Cost: Yellow
+Level: 
+HP: -
+Number: BS1-052
+Rank: Uncommon
+Kind: STAGE

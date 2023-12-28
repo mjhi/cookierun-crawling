@@ -1,0 +1,8 @@
+CardName: 자몽맛 쿠키
+Illustrator: surisuri
+Cost: Yellow
+Level: 2
+HP: 2
+Number: BS1-042
+Rank: Common
+Kind: COOKIE

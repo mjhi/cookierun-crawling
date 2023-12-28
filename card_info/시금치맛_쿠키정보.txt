@@ -1,0 +1,8 @@
+CardName: 시금치맛 쿠키
+Illustrator: LEEPIX_X
+Cost: Green
+Level: 1
+HP: 1
+Number: ST3-008
+Rank: Common
+Kind: FLIP

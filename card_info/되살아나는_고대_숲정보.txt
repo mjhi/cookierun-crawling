@@ -1,0 +1,8 @@
+CardName: 되살아나는 고대 숲
+Illustrator: Yoon GaHyun
+Cost: Green
+Level: 
+HP: -
+Number: BS1-078
+Rank: Uncommon
+Kind: STAGE
